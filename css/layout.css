@@ -27,11 +27,13 @@
 .col-8 {
 	float: left;
 	background: white;
-	width: 66.666%
+	width: 64.666%;
+  margin: 2%;
 }
 
 .col-4 {
 	float: left;
 	background: white;
-	width: 33.333%
+	width: 31.333%;
+  margin: 2%;
 }

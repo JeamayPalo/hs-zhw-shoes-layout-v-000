@@ -24,6 +24,10 @@
 
 /* Posititoning Classes */
 
+.firstrow {
+  margin: 5px
+}
+
 .col-8 {
 	float: left;
 	background: white;

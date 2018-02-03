@@ -24,16 +24,6 @@
 
 /* Posititoning Classes */
 
-.firstrow {
-  margin: 5px;
-  padding: 5px;
-}
-
-.secondrow {
-  margin: 5px;
-  padding: 5px;
-}
-
 .col-8 {
 	float: left;
 	background: white;

@@ -25,11 +25,13 @@
 /* Posititoning Classes */
 
 .firstrow {
-  margin: 5px
+  margin: 10px;
+  padding: 5px;
 }
 
 .secondrow {
-  margin: 5px
+  margin: 10px;
+  padding: 5px;
 }
 
 .col-8 {

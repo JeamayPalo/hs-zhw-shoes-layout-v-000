@@ -264,18 +264,6 @@ iframe {
 		text-decoration: underline;
 	}
 
-.col-8 {
-	float: left;
-	background: white;
-	width: 66.666%
-}
-
-.col-4 {
-	float: left;
-	background: white;
-	width: 33.333%
-}
-
 /********** Details **********/
 
 #details {

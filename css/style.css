@@ -264,7 +264,12 @@ iframe {
 		text-decoration: underline;
 	}
 
-#shadow
+#shadow {
+	float: left;
+	background: white;
+	width: 33.333%
+}
+
 
 /********** Details **********/
 
